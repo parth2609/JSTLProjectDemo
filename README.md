@@ -1,2 +1,2 @@
 # JSTLProjectDemo
-JAVA+JSP
+JAVA(Servlet)+JSP+HTML
